@@ -1,2 +1,2 @@
-# Havit-chaing
-can you chang your havit ?
+# Habit-chainge
+can you change your habit ?
